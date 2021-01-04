@@ -60,17 +60,17 @@ p {
     background-repeat: no-repeat;
 }
 .biography_area {
-    width: 80%;
+    width: 83%;
     margin: 0 auto;
     height: 750px;
     padding-top: 100px;
 }
 .biography_left {
-    width: 47%;
+    width: 46%;
     margin-right: 115px;
 }
 .biography_right {
-    width: 40%;
+    width: 43%;
     margin-top: 90px;
 }
 
@@ -100,4 +100,67 @@ p {
     width: 30%;
     margin-right: 3%;
 }
-
+.client_section {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+.client_review h2 {
+    font-size: 40px;
+}
+.client_review h4 {
+    font-size: 18px;
+    margin: 0;
+    margin-top: 70px;
+}
+.client_review p {
+    font-size: 14px;
+}
+.client_review q {
+    width: 40%;
+    margin: auto;
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    font-weight: 600;
+    line-height: 2;
+    color: #666666;
+}
+.mailbox {
+    background-image: linear-gradient(35deg, #EC5299, #ED4B6E);
+    width: 60%;
+    margin: auto;
+    height: 140px;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+.client_bg {
+    background-color: #F8F9FC;
+    background-image: url(../images/footer-bg.png);
+    background-size: cover;
+    background-position: right top -70px;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+#msg_txt {
+    color: white;
+    font-size: 14px;
+    margin-top: 40px;
+}
+.mailbox a {
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
+.copyright_text {
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 20px;
+    color: gray;
+}
+.copyright_text a {
+    text-decoration: none;
+    color:lightsalmon;
+}
