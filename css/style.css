@@ -3,12 +3,8 @@ body {
     font-family: 'Poppins', sans-serif;
     color: #333333;
 }
-img {
-    width: 100%;
-}
-p {
-    color: gray;
-}
+img {width: 100%;}
+p {color: gray;}
 .float_left {
     float: left;
 }
@@ -60,20 +56,18 @@ p {
     background-repeat: no-repeat;
 }
 .biography_area {
-    width: 83%;
-    margin: 0 auto;
+    margin-left: 10%;
     height: 750px;
     padding-top: 100px;
 }
 .biography_left {
-    width: 46%;
-    margin-right: 115px;
+    width: 40%;
+    margin-right: 10%;
 }
 .biography_right {
     width: 43%;
     margin-top: 90px;
 }
-
 .biography_right h2 {
     font-size: 35px;
 }
